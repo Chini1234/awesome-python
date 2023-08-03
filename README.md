@@ -411,6 +411,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
     * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
     * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    Description-A type of programming language having many libraries and functions.
+    <a href="https://github.com/chini1234/">
+    <img src="https://avatars.githubusercontent.com/u/107105225?v=4"width="100px;" alt="Chinmayee Priyadarshini"/>
 * PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
     * [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
     * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
